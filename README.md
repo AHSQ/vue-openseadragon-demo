@@ -1,5 +1,5 @@
 # openseadragondemo
-
+## Vue集成OpenSeadragon
 ## Project setup
 ```
 npm install
